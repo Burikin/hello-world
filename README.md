@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Здарова, Васян
+Это мой первый проект на гитхабе
